@@ -1,0 +1,23 @@
+{
+  "name": "dev_snowpack",
+  "version": "1.0.0",
+  "description": "sample project with Snowpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benibana2001/dev_snowpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benibana2001/dev_snowpack/issues"
+  },
+  "homepage": "https://github.com/benibana2001/dev_snowpack#readme",
+  "devDependencies": {
+    "snowpack": "^2.2.2"
+  }
+}
